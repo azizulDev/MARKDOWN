@@ -23,7 +23,7 @@
 > This is a quote
 
 <!-- link -->
-[Google](http://www.google.com 'click to go goole!')
+[Google](http://www.google.com 'click to go goole!'){:target='_blank'}
 
 <!-- list item -->
 * Item 1
